@@ -8,7 +8,7 @@ public class Calc {
         // 他のクラスのメソッドを呼ぶときは, クラス名.メソッド名() と記述する.
         int total = CalcLogic.tasu(a, b);
         int delta = CalcLogic.hiku(a, b);
-        
+
         System.out.println("10 + 5 = "+ total);
         System.out.println("10 - 5 = "+ delta);
     }

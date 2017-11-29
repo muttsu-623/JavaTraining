@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb85828f-99f7-4d8e-9e5e-d1e0bd4efd8b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaTraining5/JavaTraining5_1/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaTraining5/JavaTraining5_10/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaTraining5/JavaTraining5_11/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaTraining5/JavaTraining5_12/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaTraining5/JavaTraining5_13/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaTraining5/JavaTraining5_14/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaTraining5/JavaTraining5_2/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaTraining5/JavaTraining5_3/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaTraining5/JavaTraining5_4/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaTraining5/JavaTraining5_5/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaTraining5/JavaTraining5_6/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaTraining5/JavaTraining5_7/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaTraining5/JavaTraining5_9/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaTraining5/Training5_1/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaTraining5/Training5_2/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaTraining5/Training5_3/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaTraining5/Training5_4/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaTraining6/JavaTraining6_1/Calc.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaTraining6/JavaTraining6_1/CalcLogic.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaTraining6/JavaTraining6_1/Calc.java" afterPath="$PROJECT_DIR$/src/JavaTraining6/JavaTraining6_1/Calc.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -130,8 +110,8 @@
       <file leaf-file-name="Calc.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/JavaTraining6/JavaTraining6_1/Calc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            <state relative-caret-position="286">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -467,12 +447,12 @@
       <workItem from="1511509644950" duration="53000" />
       <workItem from="1511509798057" duration="17285000" />
       <workItem from="1511620821076" duration="1063000" />
-      <workItem from="1511854968061" duration="13040000" />
+      <workItem from="1511854968061" duration="13247000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31441000" />
+    <option name="totallyTimeSpent" value="31648000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -990,8 +970,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaTraining6/JavaTraining6_1/Calc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state relative-caret-position="286">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding />
         </state>
       </provider>
