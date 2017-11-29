@@ -1,4 +1,4 @@
-package JavaTraining6.JavaTraining6_1;
+package JavaTraining6.JavaTraining6_1.calcapp.main;
 
 public class Calc {
     public static void main(String[] args) {

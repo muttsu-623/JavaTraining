@@ -1,4 +1,4 @@
-package JavaTraining6.JavaTraining6_1;
+package JavaTraining6.JavaTraining6_1.calcapp.logic;
 
 public class CalcLogic {
     // 足し算を行う関数
