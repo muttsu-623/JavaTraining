@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb85828f-99f7-4d8e-9e5e-d1e0bd4efd8b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaTraining6/JavaTraining6_1/Calc.java" afterPath="$PROJECT_DIR$/src/JavaTraining6/JavaTraining6_1/Calc.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaTraining6/JavaTraining6_1/CalcLogic.java" afterPath="$PROJECT_DIR$/src/JavaTraining6/JavaTraining6_1/CalcLogic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaTraining6/Training6_1/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,22 +15,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Calc.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaTraining6/JavaTraining6_1/Calc.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaTraining6/Training6_1/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CalcLogic.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/JavaTraining6/JavaTraining6_1/CalcLogic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="154">
+              <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+              <folding>
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#355#356#0" expanded="true" />
+                <element signature="e#493#494#0" expanded="true" />
+                <element signature="e#561#562#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,7 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/JavaTraining2/list2_14.java" />
         <option value="$PROJECT_DIR$/src/JavaTraining2/list2_15.java" />
         <option value="$PROJECT_DIR$/src/JavaTraining2/practice2_1.java" />
         <option value="$PROJECT_DIR$/src/JavaTraining2/practice2_3.java" />
@@ -106,6 +100,7 @@
         <option value="$PROJECT_DIR$/src/JavaTraining5/Training5_4/Main.java" />
         <option value="$PROJECT_DIR$/src/JavaTraining6/JavaTraining6_1/Calc.java" />
         <option value="$PROJECT_DIR$/src/JavaTraining6/JavaTraining6_1/CalcLogic.java" />
+        <option value="$PROJECT_DIR$/src/JavaTraining6/Training6_1/Main.java" />
       </list>
     </option>
   </component>
@@ -194,6 +189,19 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaTraining5" type="462c0819:PsiDirectoryNode" />
               <item name="Training5_4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaTraining6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaTraining6" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaTraining6_1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -365,12 +373,12 @@
       <workItem from="1511509644950" duration="53000" />
       <workItem from="1511509798057" duration="17285000" />
       <workItem from="1511620821076" duration="1063000" />
-      <workItem from="1511854968061" duration="13537000" />
+      <workItem from="1511854968061" duration="14056000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31938000" />
+    <option name="totallyTimeSpent" value="32457000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -456,13 +464,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/JavaTraining2/list2_15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaTraining2/practice2_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -873,6 +874,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaTraining6/JavaTraining6_1/CalcLogic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaTraining6/JavaTraining6_1/Calc.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -881,11 +890,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaTraining6/JavaTraining6_1/CalcLogic.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaTraining6/Training6_1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="154">
+          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
