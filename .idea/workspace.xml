@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb85828f-99f7-4d8e-9e5e-d1e0bd4efd8b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaTraining14/Account.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaTraining14/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaTraining15/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaTraining15/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaTraining15/UnsupportedMusicFileException.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="cb85828f-99f7-4d8e-9e5e-d1e0bd4efd8b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -466,12 +459,12 @@
       <workItem from="1511620821076" duration="1063000" />
       <workItem from="1511854968061" duration="17295000" />
       <workItem from="1512736323323" duration="4211000" />
-      <workItem from="1512868286290" duration="2760000" />
+      <workItem from="1512868286290" duration="2927000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42667000" />
+    <option name="totallyTimeSpent" value="42834000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -484,7 +477,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969216" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
